@@ -76,3 +76,11 @@ section img {
     width: 100%;
     height: auto;
 }
+
+section chatbot {
+    width: 35%; /* Adjust width for chatbot */
+    position: relative; /* Fix position for the side */
+    right: 0; /* Align to the right side */
+    top: 20px; /* Adjust vertical position */
+    max-width: 300px; /* Adjust size for chatbot */
+  }
